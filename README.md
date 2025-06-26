@@ -3,6 +3,8 @@ Hey, Its me Sid!
 - 🌱 I’m currently learning **Deep Learning Optimization**
 - 📫 How to reach me e-mail: **siddharthkushwaha33@gmail.com**
 - ⚡ Fun fact: We are all doomed!
+  My Bookmarks:
+    - https://icefox-saber.github.io/CLRS/
 <!--
 **Siddharth0207/Siddharth0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
