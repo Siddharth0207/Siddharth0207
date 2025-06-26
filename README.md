@@ -1,32 +1,9 @@
-# 👋 Hi, It's Me Sid!
-
-## 👨‍💻 Profession
-**AI/ML Engineer**
-## Education 
-**Electronics & Communication Engineering**
-
-## 🛠️ Top Technical Skills
-- Python
-- Machine Learning (ML)
-- FastAPI
-- PyTorch
-
-## 🚀 Featured Projects
-- **Diamond: Voice Agent Enabled to help Finding Product**
-- **CKD: Basic ML Project and Azure Deployment**
-
-## 📝 About Me / Fun Facts
-I am passionate about building intelligent systems that solve real-world problems. Outside of coding, I'm always ready for new challenges and love to learn continuously!
-
-## 🌐 Social Links
-- [LinkedIn](https://www.linkedin.com/)
-- [Twitter](https://twitter.com/)
-
-## 🎯 Hobbies
-- Photography
-- Ready
-
-
+Hey, Its me Sid!
+- 🔭 I’m currently working on **Voice Agent System with Minimal use of API calls**
+- 🌱 I’m currently learning **Deep Learning Optimization**
+- 📫 How to reach me e-mail: **siddharthkushwaha33@gmail.com**
+- ⚡ Fun fact: We are all doomed!
+- 
 <!--
 **Siddharth0207/Siddharth0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
