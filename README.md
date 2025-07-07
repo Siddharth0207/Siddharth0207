@@ -39,12 +39,11 @@ Hi, I'm Siddharth — a Deep Learning and Generative AI Engineer focused on buil
 
 ## 📄 Tech Stack
 
-* **Languages**: Python, JavaScript, Bash, SQL
+* **Languages**: Python, JavaScript, SQL
 * **Frameworks**: FastAPI, Streamlit, LangChain, HuggingFace, PyTorch, WebRTC
 * **Infra**: Redis, PostgreSQL, Docker, Kubernetes
 * **Speech**: Whisper, Faster-Whisper, VAD, RealtimeTTS
-* **Tools**: Git, VSCode, Linux, tmux
-
+* **Tools**: Git, VSCode
 ---
 
 ## 📈 GitHub Goals
