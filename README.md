@@ -1,64 +1,34 @@
-# Siddharth | Generative AI & Machine Learning Engineer
+# Siddharth | Generative AI + ML Engineer
 
-Hi, I'm Siddharth — a Deep Learning and Generative AI Engineer focused on building production-grade, real-time voice agents, RAG pipelines, and intelligent multimodal systems. I blend my expertise across ML, systems programming, and deployment to develop solutions that push the boundaries of what's possible with AI.
+I build production-grade, real-time voice agents, RAG systems, and multimodal AI—blending deep learning, systems programming, and deployment to ship reliable products.
 
----
+## Expertise
+- Voice AI: low-latency STT/TTS with Faster-Whisper, VAD, RealtimeTTS (Coqui, Kokoro, Orpheus)
+- Conversational agents: FastAPI + WebSockets, Redis, LangChain
+- RAG: ChromaDB, Pinecone, HuggingFace LLMs
+- Multimodal agents: audio • text • vision
+- Deployment: Docker, Kubernetes, FastAPI backends, Streamlit/JS frontends
+- Data: PostgreSQL, Redis; async pipelines, session/state management
 
-## 💡 Areas of Expertise
+## Projects
+- Real-time Voice Agent (ChatGPT Voice Mini)
+  - Full-duplex WebSocket voice, partial/final transcripts, VAD, memory, entity extraction
+  - Stack: FastAPI, Redis, PostgreSQL, JS | STT: Faster-Whisper | TTS: RealtimeTTS (Coqui, Orpheus)
+  - GitHub: https://github.com/Siddharth0207/voice-agent-llama
 
-* **Voice AI Systems**: Real-time speech-to-text and text-to-speech pipelines using Faster-Whisper, RealtimeTTS (Coqui, Kokoro, Orpheus), and VAD integration.
-* **Conversational AI**: Building scalable voice/chat assistants using FastAPI, WebSockets, Redis, and LangChain.
-* **RAG Pipelines**: End-to-end Retrieval-Augmented Generation systems using ChromaDB, Pinecone, and HuggingFace models.
-* **Multimodal Agents**: Architecting intelligent agents capable of interacting via audio, text, and visual modalities.
-* **Fullstack AI Deployment**: Scalable deployments with Docker, Kubernetes, FastAPI backends, Streamlit dashboards, and JavaScript frontends.
-* **Data Engineering**: Structured PostgreSQL pipelines, memory & state tracking via Redis, session management, and async processing.
+- RAG-Driven QA Engine
+  - Context-aware Q&A with Chroma/Pinecone + HuggingFace LLMs
+  - Packaged for Streamlit/Flask
 
----
+## Tech
+Python, JavaScript, SQL • FastAPI, LangChain, HuggingFace, PyTorch, WebRTC • Redis, PostgreSQL • Docker, Kubernetes • Whisper/Faster-Whisper, VAD, RealtimeTTS • Git, VS Code
 
-## 🛠️ Current Projects
+## Goals
+- Modular, composable agent architectures
+- Long-term memory, multi-turn reasoning
+- Reproducible, well-documented releases
+- Collaborations on voice-first AI UX
 
-### 🎧 Real-time Voice Agent (ChatGPT Voice Mini)
+If you’re building real-time agents or production ML infra, let’s connect.
 
-> Full-duplex voice interface powered by Whisper + RealtimeTTS over WebSocket, designed for concurrency and extensibility.
-
-* STT: Faster-Whisper (w/ VAD)
-* TTS: RealtimeTTS (Coqui, Orpheus)
-* Stack: FastAPI + Redis + PostgreSQL + JS
-* Features: Auto voice detection, partial + final transcription, chat memory, entity extraction
-* GitHub: [voice-agent-llama](https://github.com/Siddharth0207/voice-agent-llama)
-
-
-### 📊 RAG-Driven QA Engine
-
-> Context-aware Q\&A system powered by Chroma/Pinecone and HuggingFace LLMs
-
-* LangChain custom chains
-* Embedded inside Streamlit/Flask apps
-
----
-
-## 📄 Tech Stack
-
-* **Languages**: Python, JavaScript, SQL
-* **Frameworks**: FastAPI, Streamlit, LangChain, HuggingFace, PyTorch, WebRTC
-* **Infra**: Redis, PostgreSQL, Docker, Kubernetes
-* **Speech**: Whisper, Faster-Whisper, VAD, RealtimeTTS
-* **Tools**: Git, VSCode
----
-
-## 📈 GitHub Goals
-
-* Build modular, composable AI systems
-* Explore autonomous agents with multi-turn memory
-* Maintain reproducible, documented projects
-* Collaborate on voice-first interfaces and AI UX
-
----
-
-## 👥 Let's Connect
-
-If you're working on real-time AI agents, intelligent assistants, or building infrastructure for production ML systems, feel free to reach out or explore collaborations.
-
----
-
-> “Build systems that *listen*, *speak*, and *understand* in real time.”
+“Build systems that listen, speak, and understand — in real time.”
