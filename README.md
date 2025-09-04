@@ -51,5 +51,8 @@ If you’re building real-time agents or production ML infra, let’s connect.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Siddharth0207/Siddharth0207/main/github-metrics.svg" alt="Profile Metrics" />
 </p>
-
+<!-- Optionally, show more detailed profile metrics -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Siddharth0207/Siddharth0207/main/github-metrics.svg" alt="Profile Metrics" />
+</p>
 
