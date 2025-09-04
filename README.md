@@ -33,7 +33,6 @@ If you’re building real-time agents or production ML infra, let’s connect.
 
 “Build systems that listen, speak, and understand — in real time.”
 
----
 
 ## 📊 GitHub Stats & Metrics
 
@@ -47,17 +46,10 @@ If you’re building real-time agents or production ML infra, let’s connect.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharth0207&theme=github_dark" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddharth0207&theme=gruvbox&margin-w=10&margin-h=15&column=7" alt="GitHub Trophies" />
-</p>
 
 <!-- Optionally, show more detailed profile metrics -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Siddharth0207/Siddharth0207/main/github-metrics.svg" alt="Profile Metrics" />
 </p>
 
----
 
-> 📝 **How these work:**  
-> - All stats, streaks, language percentages, and trophies auto-update!  
-> - Language stats reflect all your public (and optionally private) repositories.
